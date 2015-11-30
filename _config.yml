@@ -1,0 +1,28 @@
+name: OverKY
+favicon: null
+layout_spectrum: 0.28214910440146923
+typography_spectrum: 0.6314367277082056
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.23998964112251997
+  lightness: 0.9600088505540043
+  saturation: 0.5437282677739859
+  rhythmicContrast: 0.6797762375790626
+purpose: []
