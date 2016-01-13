@@ -1,6 +1,6 @@
 name: OverKY
 favicon: null
-layout_spectrum: 0.23927
+layout_spectrum: 0
 typography_spectrum: 0.38251
 title: Over Kentucky with a Flying Camera
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#dce2f2'
-    - '#6a82ad'
-    - '#899bc2'
-    - '#bac6e5'
-    - '#455f87'
-  brandStrength: 0
-  lightness: 0.75
-  saturation: 0.5
-  rhythmicContrast: 0
+    - '#fefefe'
+    - '#020202'
+    - '#cfcfcf'
+    - '#a7a7a7'
+    - '#4b4b4b'
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
